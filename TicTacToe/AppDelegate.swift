@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TicTacToe
+//  Demo
 //
-//  Created by Jake on 6/18/17.
+//  Created by Jake on 6/17/17.
 //  Copyright © 2017 Jake. All rights reserved.
 //
 
